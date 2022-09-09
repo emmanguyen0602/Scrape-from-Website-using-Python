@@ -1,2 +1,2 @@
-# Scrape-Table-from-Website-using-Python
+# Scrape-from-Website-using-Python
 Source: Vandany Lubis (Danny)
